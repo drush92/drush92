@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](http://agd933.poseidon.salford.ac.uk/bg1.png)](https://github.com/drush92)
+[![](http://agd933.poseidon.salford.ac.uk/bg1.png)](https://github.com/drush92)
