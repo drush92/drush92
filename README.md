@@ -1,7 +1,7 @@
 Developing apps involving...
 
-    AI generative music ✨🎶
+    Python 🐍
 
-    Crypto Betting Arbitrage 📈💰
+    Solidity ⛓️
 
-    Curve, Ape & Vyper 🦍🐍
+    ApeWorx 🦍
