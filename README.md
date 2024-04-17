@@ -1,4 +1,4 @@
-Developing apps involving...
+Currently developing 💻 apps using:
 
     Python 🐍
 
